@@ -39,7 +39,7 @@ I'm passionate about open source and have contributed to several iOS projects on
 
 ## Certification
 
-![iOS Capstone](https://imgur.com/VX749Sg)
+<img src="https://imgur.com/a/4Pd9TRc" alt="">
 
 
 ## Connect with Me
