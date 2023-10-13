@@ -37,11 +37,6 @@ I'm passionate about open source and have contributed to several iOS projects on
 - [BreathEase](https://github.com/Zaidsheikh999/BreathEase): breathEase is a simple SwiftUI app designed to guide users through breathing exercises, promoting relaxation and mindfulness.
 
 
-## Certification
-
-<img src="https://imgur.com/a/4Pd9TRc" alt="iOS Capstone">
-
-
 ## Connect with Me
 
 - 📫 Reach me via [Email](zaidsheikh544@gmail.com).
