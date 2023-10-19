@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaidsheikh999" alt="zaidsheikh999" /></a> </p>
 
-- 🔭 I’m currently working on [Pauseitive](https://apps.apple.com/us/app/pauseitive/id1635140724)
+- 🔭 I’m currently working on [Pauseitive](https://apps.apple.com/us/app/pauseitive/id1635140724) and [4Par](https://apps.apple.com/mk/app/4par/id1630114311)
 
 - 🌱 I’m currently learning **Swift Data**
 
@@ -12,6 +12,16 @@
 - 💬 Ask me about **Swift, SwiftUI, UiKit**
 
 - 📫 How to reach me **zaidsheikh544@gmail.com**
+
+<h3 align="left">Open Source Contributions:</h3>
+
+I'm passionate about open source and have contributed to several iOS projects on GitHub. Some of my contributions include:
+
+- [Cryptography](https://github.com/Zaidsheikh999/Cryptography): This is a cryptography project that provides a simple utility for encrypting and decrypting strings using a chosen cryptographic algorithm. The project demonstrates the basic   
+   principles of encryption and decryption and serves as a starting point for understanding cryptography concepts in software development.
+  
+- [BreathEase](https://github.com/Zaidsheikh999/BreathEase): breathEase is a simple SwiftUI app designed to guide users through breathing exercises, promoting relaxation and mindfulness.
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
