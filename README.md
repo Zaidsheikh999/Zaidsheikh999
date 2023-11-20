@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaidsheikh999" alt="zaidsheikh999" /></a> </p>
 
-- 🔭 I’m currently working on [Pauseitive](https://apps.apple.com/us/app/pauseitive/id1635140724) and [4Par](https://apps.apple.com/mk/app/4par/id1630114311)
+- 🔭 I’m currently working on [HBL- AMC]
 
 - 🌱 I’m currently learning **Swift Data**
 
