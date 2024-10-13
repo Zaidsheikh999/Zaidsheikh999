@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaidsheikh999" alt="zaidsheikh999" /></a> </p>
 
-- 🔭 I’m currently working on [HBL Savings](https://apps.apple.com/pk/app/hbl-savings/id1589436981?platform=iphone)
+- 🔭 I’m currently working on [HBL Savings](https://apps.apple.com/pk/app/hbl-savings/id1589436981?platform=iphone) , [PingUp](https://apps.apple.com/us/app/ping-up/id6451393105) and [5th Pillar]()
 
 - 🌱 I’m currently learning **Swift Data**
 
