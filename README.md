@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [HBL Savings](https://apps.apple.com/pk/app/hbl-savings/id1589436981?platform=iphone) , [PingUp](https://apps.apple.com/us/app/ping-up/id6451393105) and [5th Pillar]()
 
-- 🌱 I’m currently learning **Swift Data**
-
 - 👨‍💻 All of my projects are available at [Here](https://github.com/Zaidsheikh999?tab=repositories)
 
 - 💬 Ask me about **Swift, SwiftUI, UiKit**
